@@ -1,0 +1,10 @@
+<appian-plugin name="com.appiancorp.plugin.mergeexceldocuments" key="com.appiancorp.plugin.mergeexceldocuments">
+  <plugin-info>
+    <description>com.appiancorp.plugin.mergeexceldocuments</description>
+    <vendor name="Appian Corporation" url="http://www.appian.com" />
+    <version>1.0.0</version>
+    <application-version min="6.1.0" />
+  </plugin-info>
+  <smart-service name="Merge Excel Documents" key="mergeexceldocuments"
+    class="com.appiancorp.plugin.mergeexceldocuments.MergeExcelDocuments" />
+</appian-plugin>

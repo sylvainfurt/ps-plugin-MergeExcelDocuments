@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Appian71/ear/suite.ear/lib/appian-common.jar"/>
+	<classpathentry kind="lib" path="C:/Appian71/ear/suite.ear/lib/appian-type.jar"/>
+	<classpathentry kind="lib" path="C:/Appian71/ear/suite.ear/lib/appian-services.jar"/>
+	<classpathentry kind="lib" path="C:/Appian71/ear/suite.ear/lib/appian-suiteapi.jar"/>
+	<classpathentry kind="lib" path="src/META-INF/lib/poi-3.7-beta1-20100620.jar"/>
+	<classpathentry kind="lib" path="src/META-INF/lib/poi-ooxml-3.7-beta1-20100620.jar"/>
+	<classpathentry kind="lib" path="src/META-INF/lib/poi-ooxml-schemas-3.7-beta1-20100620.jar"/>
+	<classpathentry kind="lib" path="src/META-INF/lib/commons-math-2.1.jar"/>
+	<classpathentry kind="lib" path="src/META-INF/lib/commons-lang-2.4.jar"/>
+	<classpathentry kind="lib" path="src/META-INF/lib/commons-io-1.4.jar"/>
+	<classpathentry kind="lib" path="src/META-INF/lib/log4j-1.2.15.jar"/>
+	<classpathentry kind="lib" path="C:/Appian71/ear/suite.ear/lib/appian-plugins.jar"/>
+	<classpathentry kind="lib" path="src/META-INF/lib/xmlbeans-2.3.0.jar"/>
+	<classpathentry kind="lib" path="src/META-INF/lib/commons-beanutils-1.8.0.jar"/>
+	<classpathentry kind="lib" path="src/META-INF/lib/jboss-iiop.jar"/>
+	<classpathentry kind="lib" path="src/META-INF/lib/jboss-logging-spi.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
